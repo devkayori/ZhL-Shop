@@ -1,6 +1,6 @@
-# Store Server
+# ZhL Shop
 
-The project for study Django.
+An online store where it is possible to purchase Internet items, such as clothing, shoes, accessories. This project implements: authorization via GitHub, confirmation of your email and the ability to pay for orders via Stripe.
 
 #### Stack:
 
@@ -14,7 +14,7 @@ All actions should be executed from the source directory of the project and only
 
 1. Firstly, create and activate a new virtual environment:
    ```bash
-   python3.9 -m venv ../venv
+   python3.11 -m venv ../venv
    source ../venv/bin/activate
    ```
    
